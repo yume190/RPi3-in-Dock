@@ -1,2 +1,5 @@
-obj-m += hello-1.o
-obj-m += chardev.o
+#dhtdriver−y := dht.o dhtfop.o
+
+obj-m += yumedht.o
+obj-m += yumedht2.o
+obj-m += yumedht3.o

@@ -1,0 +1,2 @@
+obj-m += 1Basic.o
+obj-m += 2CDev.o
